@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+  <rect width="1200" height="500" fill="#d9f0f2"/>
+  <circle cx="980" cy="120" r="70" fill="#ffcf66"/>
+  <rect x="0" y="350" width="1200" height="150" fill="#73a942"/>
+  <polygon points="120,350 340,90 560,350" fill="#4f772d"/>
+  <polygon points="420,350 650,130 870,350" fill="#31572c"/>
+  <text x="70" y="80" font-family="Arial" font-size="52" fill="#0d5c63">Explore Tanzania</text>
+</svg>
+

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#dfe7fd"/>
+  <polygon points="50,340 220,120 390,340" fill="#7f8c8d"/>
+  <polygon points="230,340 390,80 550,340" fill="#5c677d"/>
+  <polygon points="360,130 390,80 420,130" fill="#ffffff"/>
+  <rect y="340" width="600" height="60" fill="#2d6a4f"/>
+  <text x="20" y="45" font-family="Arial" font-size="28" fill="#1d3557">Highlands</text>
+</svg>

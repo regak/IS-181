@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="220" fill="#8ecae6"/>
+  <rect y="220" width="600" height="70" fill="#219ebc"/>
+  <rect y="290" width="600" height="110" fill="#f4d58d"/>
+  <circle cx="500" cy="75" r="45" fill="#ffb703"/>
+  <text x="30" y="55" font-family="Arial" font-size="28" fill="#023047">Coast</text>
+</svg>
